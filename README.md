@@ -47,7 +47,7 @@ work includes switching to ultrasonic/capacitive sensing and firmware-side filte
 Department of Information and Communication Technology, Faculty of Technology, 
 South Eastern University of Sri Lanka
 
-- M.T. Madapatha — SEU/IS/20/ICT/014
+- M.T. Madapatha — SEU/IS/20/ICT/014 (Group Leader)
 - M.B. Jayamanne — SEU/IS/20/ICT/015
 - S.T.P. Edirisinghe — SEU/IS/20/ICT/018
 - K.P.S.D. Karunarathna — SEU/IS/20/ICT/020
